@@ -1,0 +1,26 @@
+.black { 
+    background-color: black
+    }
+
+.orangeRed {
+    background-color: orangered;
+    }
+
+.orange {  
+    background-color: orange;
+    }
+
+.cube {
+    height: 50px;
+    border: 1px solid white;
+    }
+    
+.swaggysauron {
+    width: 600px;
+    height: 650px;
+    margin: auto;
+}
+
+.test{
+    background-color:green;
+}
